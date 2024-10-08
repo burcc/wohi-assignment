@@ -1,0 +1,36 @@
+#index {
+    text-align: center;
+
+}
+
+  a:hover {
+    color: rgb(236, 41, 96);
+  }
+
+  body {
+    
+    font-size: 15px;
+    #form {
+        
+        margin-bottom: 30px;
+        margin-left: 30px;
+      }
+
+    #table {
+        margin-bottom: 30px;
+        margin-left: 30px;
+    }
+
+    #Hobbies{
+        margin-bottom: 30px;
+        margin-left: 30px;
+    }
+      
+  }
+
+
+  
+
+
+
+
